@@ -1,4 +1,6 @@
-![Mesa de trabajo 1HtmlTypota](E:/Grandote58/GR58_Facebook/2x/Mesa%20de%20trabajo%201HtmlTypota.png)
+
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_001/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
+
 
 # 🚀 **Módulo de E-learning: Construyendo Nuestra Primera Página Web Moderna** 🚀
 
@@ -220,9 +222,9 @@ body {
 
 
 
-
-
 ![Recurso 1PiePagina](./assets/Recurso%201PiePagina.png)
+
+
 
 
 
