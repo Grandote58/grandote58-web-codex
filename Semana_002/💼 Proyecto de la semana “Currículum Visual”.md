@@ -1,3 +1,6 @@
+
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
+
 # 💼 **Proyecto de la semana: “Currículum Visual”**
 
 ### 🎨 **Nombre del proyecto:**
@@ -114,3 +117,8 @@ Un archivo comprimido `.zip` que contenga:
 | Estilo visual coherente y limpio | 20 pts      |
 | Responsividad básica funcional   | 20 pts      |
 | **Total**                        | **100 pts** |
+
+
+
+![Pie](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Recurso%201PiePagina.png)
+
