@@ -1,4 +1,4 @@
-![Portada](D:\Bakup_2025\HTML5\Semana_002\assets\Mesa de trabajo 1HtmlTypota-1753843893156-6.png)
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
 
 # 🧩 **Paso 3: Márgenes, Paddings y Bordes: ¡Organiza el Espacio de tu Página!**
 
@@ -194,5 +194,4 @@ Usa el inspector del navegador y activa el modo "caja" para ver los márgenes, p
 
 
 
-![Recurso 1PiePagina](./assets/Recurso%201PiePagina.png)
-
+![Pie](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Recurso%201PiePagina.png)
