@@ -1,4 +1,4 @@
-![Portada](D:\Bakup_2025\HTML5\Semana_002\assets\Mesa de trabajo 1HtmlTypota.png)
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
 
 # 🟦 **Paso 1: Introducción a CSS**
 
@@ -236,4 +236,4 @@ p {
 
 
 
-![Recurso 1PiePagina](./assets/Recurso%201PiePagina.png)
+![Pie](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Recurso%201PiePagina.png)
