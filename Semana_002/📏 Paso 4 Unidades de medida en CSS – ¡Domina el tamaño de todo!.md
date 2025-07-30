@@ -1,4 +1,4 @@
-![Portada](D:\Bakup_2025\HTML5\Semana_002\assets\Mesa de trabajo 1HtmlTypota-1753843932856-9.png)
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
 
 # 📏 **Paso 4: Unidades de medida en CSS – ¡Domina el tamaño de todo!**
 
@@ -212,4 +212,4 @@ html {
 
 
 
-![Recurso 1PiePagina](./assets/Recurso%201PiePagina.png)
+![Pie](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Recurso%201PiePagina.png)
