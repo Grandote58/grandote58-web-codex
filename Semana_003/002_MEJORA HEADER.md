@@ -1,3 +1,5 @@
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
+
 # 💡MEJORA HEADER
 
 ## 🧩 Ejemplo 1: **Header con tabla HTML (estructura clásica)**
@@ -105,4 +107,8 @@
 
 - Permite contenido combinado (texto + botón + íconos).
 - Muy visual y jerárquico.
+
 - ✅ Excelente para **header informativo + acción rápida.**
+
+
+![Pie](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Recurso%201PiePagina.png)
