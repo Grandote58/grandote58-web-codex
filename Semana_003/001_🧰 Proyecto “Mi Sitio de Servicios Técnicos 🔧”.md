@@ -1,3 +1,6 @@
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
+
+
 # **🧰 Proyecto “Mi Sitio de Servicios Técnicos 🔧”**
 
 ## 🧩 Paso 1: Preparar tu entorno de trabajo
@@ -198,3 +201,5 @@ Mostrar servicios ofrecidos con tarjetas y botones.
 - Estructura clara, jerárquica y accesible.
 - Navegación, contenido visual y llamado a la acción funcionales.
 
+
+![Pie](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Recurso%201PiePagina.png)
