@@ -1,3 +1,6 @@
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
+
+
 # 💡MEJORA BANNER
 
 ## 🔁 1. **Banner con imagen al lado y texto al lado (estilo "Split Hero")**
@@ -189,4 +192,8 @@
 | Mostrar varios servicios | 🎞️ Slider automático con texto fijo          |
 | Profesional y emocional  | 🎥 Video de fondo con llamada clara          |
 | Eficiente y moderno      | ⚖️ Imagen + texto a los lados (split layout) |
+
 | Sencillo pero atractivo  | 💬 Efecto texto máquina + botón animado      |
+
+
+![Pie](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Recurso%201PiePagina.png)
