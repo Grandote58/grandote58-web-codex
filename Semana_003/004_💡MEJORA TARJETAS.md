@@ -1,3 +1,7 @@
+
+![Portada](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Mesa%20de%20trabajo%201HtmlTypota.png)
+
+
 # 💡MEJORA TARJETAS
 
 ## 1. 🧲 **Tarjeta con efecto Hover "Flipping Card" (Volteo 3D)**
@@ -198,3 +202,5 @@
 | Deslizante animada | Interacción con scroll o entradas llamativas | No          |
 | Grid estructurada  | Listas de servicios o categorías ordenadas   | No          |
 
+
+![Pie](https://github.com/Grandote58/grandote58-web-codex/blob/main/Semana_002/assets/Recurso%201PiePagina.png)
