@@ -1,6 +1,6 @@
 
 
-![Recurso 2foto001](C:\Users\juanc\OneDrive\Escritorio\JavascripWeb\SimulacionPolea\2x\Recurso 2foto001.png)
+![Recurso 2foto001](https://github.com/Grandote58/grandote58-web-codex/blob/main/Simulacion_002/assets/Recurso%202foto001.png)
 
 # **🧰 “¡Sube ese peso!”**
 
@@ -32,8 +32,8 @@
 > Al terminar, tendrás una **página web interactiva** que muestra una polea, un peso y controles para **probar fuerzas** y ver si el objeto sube o no.
 
 
+![image-20250923172903702](https://github.com/Grandote58/grandote58-web-codex/blob/main/Simulacion_002/assets/image-20250923172903702.png)
 
-![image-20250923172903702](./assets/image-20250923172903702.png)
 
 ## 🧪 Concepto físico, fácil
 
@@ -67,4 +67,5 @@ simulacion-polea/
 
 ## 
 
-![Recurso 4foto0021](./assets/Recurso 4foto0021-1758666451954-3.png)
+
+![Recurso 4foto0021](https://github.com/Grandote58/grandote58-web-codex/blob/main/Simulacion_002/assets/Recurso%204foto0021-1758666451954-3.png)
