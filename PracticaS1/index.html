@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Haz nacer tu Lienzo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>🎨 Haz nacer tu Lienzo</h1>
+    <p>Crea un área de dibujo con un botón. Luego dibuja con tu mouse o dedo.</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <button id="createBtn">➕ Crear lienzo</button>
+      <button id="clearBtn" disabled>🧹 Limpiar</button>
+
+      <label>Color
+        <input type="color" id="color" value="#0d6efd">
+      </label>
+
+      <label>Tamaño
+        <input type="range" id="size" min="1" max="25" value="4">
+        <span id="sizeLabel">4 px</span>
+      </label>
+    </div>
+
+    <!-- Aquí aparecerá el canvas -->
+    <div id="canvasHost" class="host"></div>
+  </main>
+
+  <footer>
+    <small>Tip: si no ves nada, pulsa “Crear lienzo”.</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

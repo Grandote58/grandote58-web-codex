@@ -1,0 +1,38 @@
+:root{
+  --line:#e5e7eb;
+  --bg:#f8fafc;
+  --card:#ffffff;
+}
+body{
+  font-family: system-ui, sans-serif;
+  background: var(--bg);
+  margin:0; color:#111827;
+}
+header{ text-align:center; padding:16px; }
+main{ max-width:800px; margin:0 auto; padding:12px; }
+
+.controls{
+  display:flex; gap:12px; flex-wrap:wrap;
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:12px;
+  padding:12px;
+}
+.controls button{
+  padding:8px 12px; border-radius:10px; cursor:pointer;
+  border:1px solid var(--line); background:#fff;
+}
+.controls button:disabled{ opacity:.5; cursor:not-allowed; }
+
+.host{
+  margin-top:12px; min-height:320px;
+  display:flex; align-items:center; justify-content:center;
+  border:1px dashed var(--line); border-radius:12px;
+  color:#6b7280; background:#fff; text-align:center;
+}
+canvas{
+  border:1px solid var(--line);
+  border-radius:12px;
+  display:block;
+  background:#fff;
+}

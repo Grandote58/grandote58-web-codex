@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cuadrado Personalizable</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>⬛ Mi cuadrado personalizable</h1>
+    <p>Crea un lienzo, ajusta el color y tamaño del cuadrado, y elimínalo si quieres.</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <button id="createBtn">➕ Crear</button>
+      <button id="deleteBtn" disabled>🗑️ Eliminar</button>
+
+      <label>Color:
+        <input type="color" id="color" value="#0d6efd">
+      </label>
+
+      <label>Tamaño:
+        <input type="range" id="size" min="20" max="200" value="80">
+        <span id="sizeLabel">80 px</span>
+      </label>
+    </div>
+
+    <div id="host" class="host">No hay lienzo creado.</div>
+
+      <!-- NUEVOS CONTROLES DE MOVIMIENTO -->
+<label>Posición X:
+  <input type="range" id="posX" min="0" max="100" value="50">
+  <span id="posXLabel">50%</span>
+</label>
+
+<label>Velocidad:
+  <input type="range" id="speed" min="1" max="10" value="4">
+  <span id="speedLabel">4 px/cuadro</span>
+</label>
+
+<button id="playBtn" disabled>▶️ Iniciar</button>
+<button id="pauseBtn" disabled>⏸️ Pausar</button>
+  </main>
+
+
+
+  <script src="app.js"></script>
+</body>
+</html>

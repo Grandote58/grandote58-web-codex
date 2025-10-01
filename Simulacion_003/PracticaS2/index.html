@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crea y borra tu lienzo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>🖼️ Crea y borra tu lienzo</h1>
+    <p>Presiona <strong>Crear</strong> para generar un canvas. Usa <strong>Eliminar</strong> para quitarlo.</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <button id="createBtn">➕ Crear</button>
+      <button id="deleteBtn" disabled>🗑️ Eliminar</button>
+    </div>
+
+    <!-- Aquí aparecerá el canvas -->
+    <div id="host" class="host" aria-live="polite">No hay lienzo creado.</div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
