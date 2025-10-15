@@ -2,11 +2,11 @@
 
 
 
-![image-20251015125147497](C:\Users\juanc\OneDrive\Escritorio\CurseJavaScrip_Simulacion\Simulacion_004_b\assets\image-20251015125147497.png)
+![image-20251015125147497](https://github.com/Grandote58/grandote58-web-codex/tree/main/Simulacion_004_b/assets\image-20251015125147497.png)
 
 
 
-<img src="C:\Users\juanc\OneDrive\Escritorio\CurseJavaScrip_Simulacion\Simulacion_004_b\assets\image-20251015125158662.png" alt="image-20251015125158662" style="zoom:80%;" />
+<img src="[C:\Users\juanc\OneDrive\Escritorio\CurseJavaScrip_Simulacion\Simulacion_004_b\assets](https://github.com/Grandote58/grandote58-web-codex/tree/main/Simulacion_004_b/assets)\image-20251015125158662.png" alt="image-20251015125158662" style="zoom:80%;" />
 
 
 
@@ -246,4 +246,5 @@ Guarda y comprueba que aparece correctamente al inicio del juego.
 </body>
 </html>
 ```
+
 
