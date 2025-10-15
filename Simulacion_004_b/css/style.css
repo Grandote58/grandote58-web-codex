@@ -1,0 +1,47 @@
+body {
+    background-color: #212529; /* Gris oscuro de Bootstrap */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.game-container {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+}
+
+#gameCanvas {
+    background-color: #ced4da; /* Gris claro para el área de juego */
+    border: 3px solid #495057; /* Borde gris oscuro */
+    display: block; /* Elimina espacio extra debajo del canvas */
+}
+
+.hud {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0.25rem;
+    color: #343a40;
+}
+
+.hits-display {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 24px; /* Para que no salte el layout */
+    margin-top: 0.25rem;
+}
+
+/* Marcador de golpe recibido */
+.hit-marker {
+    width: 24px;
+    height: 24px;
+    background-color: #dc3545; /* Rojo de Bootstrap */
+    border-radius: 50%;
+    border: 2px solid #8e2d3a;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.4);
+}

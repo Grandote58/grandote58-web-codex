@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Batalla de Tanques Aleatoria</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="game-container">
+        <div class="hud">
+            <div>
+                <h5>Tu Tanque (Azul)</h5>
+                <div id="player-hits" class="hits-display"></div>
+            </div>
+            <div>
+                <h5>Tanque Enemigo (Verde)</h5>
+                <div id="ai-hits" class="hits-display"></div>
+            </div>
+        </div>
+        
+        <canvas id="gameCanvas"></canvas>
+    </div>
+    
+    <div class="modal fade" id="gameModal" data-bs-backdrop="static" data-bs-keyboard="false">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content text-bg-dark">
+          <div class="modal-header">
+            <h5 class="modal-title" id="modalTitle">¡Bienvenido a la Batalla de Tanques!</h5>
+          </div>
+          <div class="modal-body" id="modalBody">
+            <p><strong>Objetivo:</strong> Golpea al tanque enemigo 3 veces para ganar.</p>
+            <p><strong>Controles:</strong></p>
+            <ul>
+                <li><strong>Moverse:</strong> Teclas W, A, S, D</li>
+                <li><strong>Disparar:</strong> Barra Espaciadora</li>
+            </ul>
+            <p>¡Cada vez que juegues el laberinto será diferente!</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary w-100" id="startGameBtn">¡Comenzar a Jugar!</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>
